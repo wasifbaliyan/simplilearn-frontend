@@ -1,0 +1,11 @@
+.course__videos {
+  text-align: center;
+  padding: 2rem 0;
+}
+.course__title {
+  text-align: center;
+  padding: 2.5rem 0;
+}
+.video__container {
+  margin-bottom: 2.5rem;
+}

@@ -1,0 +1,19 @@
+.login__input {
+  width: 100%;
+  padding: 8px 10px;
+  margin: 1rem 0;
+}
+
+.login__button {
+  padding: 10px 5px;
+  width: 100%;
+  margin: 1rem 0;
+  background-color: #5046e5;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+.login__button:hover {
+  opacity: 0.9;
+}

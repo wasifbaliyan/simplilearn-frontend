@@ -1,0 +1,33 @@
+.login__container {
+  margin-top: 5rem;
+  display: flex;
+  align-items: center;
+}
+
+.form__container {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
+    rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  min-width: 300px;
+  width: 450px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 4.5rem 2.5rem;
+  border-radius: 6px;
+}
+
+.login__heading {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.login__type {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.login__type__button {
+  border: none;
+  background: #fff;
+  color: #5046e5;
+  cursor: pointer;
+}
